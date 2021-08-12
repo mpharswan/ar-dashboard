@@ -1,0 +1,42 @@
+.header {
+    background: #41337A;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.resolve {
+    display: flex;
+    justify-content: center;
+}
+
+.contents {
+    padding: 2rem;
+    margin: 2rem;
+    border-radius: 5px;
+    color: white;
+    background: #9B72AA;
+    width: 15rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu {
+    /* border: 1px solid black; */
+    width: 11rem;
+    height: 100vh;
+    float: left;
+    background: #331E36;
+}
+
+.menu p {
+    padding: 10px;
+    /* text-decoration: none; */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
