@@ -2,7 +2,7 @@
 const Home = () => {
     return (
         <div>
-            WELCOME TO DASHBOARD
+            WELCOME TO DASHBOARD SETUP
         </div>
     )
 }
