@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 const Health = () => {
     return (
         <div>
-                Anchor Health
+                Anchor HEALTH
         </div>
     )
 }
