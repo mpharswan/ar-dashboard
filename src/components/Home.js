@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import ReactMapGL, { NavigationControl} from "react-map-gl";
 
 const Home = () => {
@@ -24,7 +24,7 @@ const Home = () => {
             setViewport(viewport)
           }}
           >
-                {/* <NavigationControl /> */}
+                <NavigationControl />
     
           </ReactMapGL>
         </div>
