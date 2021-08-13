@@ -24,17 +24,14 @@
 }
 
 .menu {
-    /* border: 1px solid black; */
     width: 15%;
     height: 100vh;
     float: left;
     background: #331E36;
-    position: absolute;
 }
 
 .menu p {
     padding: 10px;
-    /* text-decoration: none; */
 }
 
 a {
@@ -43,6 +40,5 @@ a {
 }
 
 .home {
-    float: right;
-    position: relative;
+    padding-left: 15%;
 }
