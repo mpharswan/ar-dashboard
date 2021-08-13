@@ -29,7 +29,7 @@
     height: 100vh;
     float: left;
     background: #331E36;
-    /* position: absolute; */
+    position: absolute;
 }
 
 .menu p {
@@ -44,5 +44,5 @@ a {
 
 .home {
     float: right;
-    /* position: relative; */
+    position: relative;
 }
